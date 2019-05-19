@@ -1,0 +1,4 @@
+C:/prg/candlecove/custom/zlib/build/CMakeFiles/zlib.dir
+C:/prg/candlecove/custom/zlib/build/CMakeFiles/INSTALL.dir
+C:/prg/candlecove/custom/zlib/build/CMakeFiles/ALL_BUILD.dir
+C:/prg/candlecove/custom/zlib/build/CMakeFiles/ZERO_CHECK.dir

@@ -9,10 +9,10 @@
 #define ZCONF_H
 
 /* KITWARE_ZLIB_CHANGE - Added to mangle function names */
-#include "zlib_mangle.h"
+//#include "zlib_mangle.h"
 
 /* KITWARE_ZLIB_CHANGE - Added to get the correct definition of ZLIB_DLL */
-#include "zlibDllConfig.h"
+//#include "zlibDllConfig.h"
 
 /*
  * If you *really* need a unique prefix for all types and library functions,
